@@ -57,7 +57,7 @@ You can use matplotlib or seaborn to generate a visual forecast chart.
 ## 📂 Files
 
 - auto_arima_stock_prediction.ipynb – Main Jupyter notebook containing all code and explanation
-
+![Forecast Chart](images/forecast_plot.png)
 ---
 
 ## 📬 Let’s Connect
